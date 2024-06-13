@@ -90,12 +90,16 @@ loadWishList();
 
 function displayWishlistCount(){
     wishlistCount = document.querySelector('.wishlist-count');
-    if(wishlistCount.length > 0)
+    if(wishlist.length > 0)
         {
-        cartCount.style.visibility ='visible';
         wishlistCount.innerText = wishlist.length;
+        wishlistCount.style.visibility ='visible';
+        
         }
-        cartCount.style.visibility ='hidden';
+        else{
+            wishlistCount.style.visibility ='hidden';
+        }
+        
 }
 displayWishlistCount();
 
