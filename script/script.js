@@ -90,8 +90,12 @@ loadWishList();
 
 function displayWishlistCount(){
     wishlistCount = document.querySelector('.wishlist-count');
-    wishlistCount.innerText = wishlist.length;
-    
+    if(wishlistCount.length > 0)
+        {
+        cartCount.style.visibility ='visible';
+        wishlistCount.innerText = wishlist.length;
+        }
+        cartCount.style.visibility ='hidden';
 }
 displayWishlistCount();
 
