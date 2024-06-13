@@ -28,10 +28,6 @@ function displayWishlistItems(){
 
 function generateHtmlForWishList(item){
         return `<div class="wishlist-item">
-                    <div class="likeIconStyle">
-                        <i class="fa-brands fa-gratipay">
-                        </i>
-                    </div>
                     <div class="item-image">
                         <img src="${item.item_image}">
                     </div>
