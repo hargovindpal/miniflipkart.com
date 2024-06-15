@@ -38,7 +38,9 @@ innerHtml += ` <div class="item-container">
                                 <div class="offer">
                                     <p>${item.offer}</p>
                                 </div>
-                                <button onclick="addToBag(${item.id});" class="addtocart"><i class="fa-solid fa-cart-shopping"></i> Add to Cart</button>
+                                <div class="addtocart">
+                                <button onclick="addToBag(${item.id});" ><i class="fa-solid fa-cart-shopping"></i> Add to Cart</button>
+                                </div>
                             </div>`;
 });
 

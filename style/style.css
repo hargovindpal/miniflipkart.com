@@ -297,6 +297,12 @@ header .row{
     cursor: pointer;
 }
 .addtocart{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top:10px;
+}
+.addtocart button{
     background-color: #ff9d00e0;
     color: white;
     border: none;
@@ -304,8 +310,6 @@ header .row{
     font-weight: 700;
     border-radius: 5px;
     padding: 10px 10px;
-    margin-left: 50%;
-    margin-top:10px;
     cursor: pointer;
 }
 
