@@ -111,7 +111,6 @@ function addtowishlist(itemId){
     if (!wishlist.includes(itemId)) {
         wishlist.push(itemId);
         localStorage.setItem('wishlist', JSON.stringify(wishlist)); // Store the updated wishlist in local storage
-        alert('Item added to your Wish List');
         updateWishlistIconStyle();
         displayWishlistCount(); // Update the wishlist count display
         
