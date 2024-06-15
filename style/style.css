@@ -219,10 +219,7 @@ header .row{
     cursor: pointer;
     transition: all 0.2s ease-out;
 }
-.item-image img{
-    height: 20vh;
-    width: 20vh;
-}
+
 .item-image:hover{
     transform: scale(1.05);
     transition: all 0.2s ease-out;
