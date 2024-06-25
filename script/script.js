@@ -39,7 +39,7 @@ innerHtml += ` <div class="item-container">
                                     <p>${item.offer}</p>
                                 </div>
                                 <div class="addtocart">
-                                <button onclick="addToBag(${item.id});" ><i class="fa-solid fa-cart-shopping"></i> Add to Cart</button>
+                                <button onclick="addToBag(${item.id});" class="addtocartbtn" ><i class="fa-solid fa-cart-shopping"></i> Add to Cart</button>
                                 </div>
                             </div>`;
 });
