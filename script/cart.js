@@ -144,6 +144,30 @@ function displayCartSummary(){
 displayCartSummary();
 
 
+document.querySelectorAll('.item-bottom').forEach(item => {
+
+let countPlus = item.querySelector('.PlusBtn');
+let countMinus = item.querySelector('.minusBtn');
+let quantity = item.querySelector('.quantity');
+let counter = parseInt(quantity.value);
+
+
+countPlus.addEventListener('click', () => {
+    counter++;
+    quantity.value = counter;
+});
+
+countMinus.addEventListener('click', () => {
+    if (counter > 1) {
+        counter--;
+        quantity.value = counter;
+    } 
+    else {
+        alert("Quantity cannot be less than 1");
+    }
+});
+});
+
 
 
 
