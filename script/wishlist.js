@@ -55,8 +55,10 @@ function generateHtmlForWishList(item){
                         <div class="offer">
                             <p>${item.offer}</p>
                         </div>
-                        <button onclick="addToBag(${item.id});" class="addtocart"><i class="fa-solid fa-cart-shopping"></i> Add to Cart
+                        <div class="addtocart">
+                        <button onclick="addToBag(${item.id});" class="addtocartbtn"><i class="fa-solid fa-cart-shopping"></i> Add to Cart
                     </button>
+                    </div>
                     </div>  
                 </div> `;
 }
