@@ -46,7 +46,6 @@ body {
     align-items: center;
     background-color: #050c18;
     padding: 10px;
-    height: fit-content;
     width: 100%;
     overflow: hidden;
     color: white;
@@ -82,7 +81,7 @@ body {
 }
 
 .seller a {
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 600;
     color: white;
 }
@@ -115,7 +114,7 @@ body {
     border-radius: 5px;
     color: white;
     
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 700;
     cursor: pointer;
 
@@ -129,7 +128,7 @@ body {
     padding: 1px;
     width: 20px;
     height: 20px;
-    font-size: 15px;
+    font-size: 20px;
     border-radius: 10px;
     position: relative;
     top: -15px;
@@ -148,7 +147,7 @@ body {
     padding: 1px;
     width: 20px;
     height: 20px;
-    font-size: 15px;
+    font-size: 20px;
     border-radius: 10px;
     position: relative;
     top: -15px;
@@ -164,7 +163,7 @@ body {
     border-radius: 5px;
     color: white;
     gap: 5px;
-    font-size: 20px;
+    font-size: 25px;
     font-weight: 700;
     cursor: pointer;
 
@@ -172,7 +171,7 @@ body {
 
 .cart-icon a {
     color: white;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .items-container {
@@ -361,7 +360,11 @@ button.addtocartbtn {
 
 
 /* catagory Page css Starts*/
-
+hr{
+    height:3px;
+    width: 100%;
+    background-color: #dbc0c0;
+}
 .catagory-container {
     display: flex;
     align-items: center;
@@ -369,7 +372,7 @@ button.addtocartbtn {
     width: 100%;
     gap: 50px;
     justify-content: center;
-    padding: 180px 0px;
+    padding: 280px 20px 0px;
     background-color: #f1f3f6;
 }
 .item-catagory {
@@ -401,7 +404,7 @@ button.addtocartbtn {
     color: rgba(0, 0, 0, 0.842);
     width: 100%;
     padding: 15px 5px;
-    font-size: 25px;
+    font-size: 35px;
     font-weight: 800;
     color:rgb(199, 116, 7);
 }
