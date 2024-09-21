@@ -187,6 +187,12 @@ body {
     background-color: #f1f3f6;
 }
 
+
+
+
+
+
+
 .item-container {
 
     border-radius: 5px;
@@ -237,6 +243,8 @@ body {
     align-items: left;
     object-position: left;
     width: 90%;
+    min-height: 350px;
+    max-height: 380px;
     transition: all 0.2s ease-out;
 }
 
@@ -348,6 +356,60 @@ button.addtocartbtn {
     padding: 10px 10px;
     cursor: pointer;
 }
+
+
+
+
+/* catagory Page css Starts*/
+
+.catagory-container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    gap: 50px;
+    justify-content: center;
+    padding: 180px 0px;
+    background-color: #f1f3f6;
+}
+.item-catagory {
+    position: relative;
+    border-radius: 5px;
+    width: 40%;
+    min-height: 440px;
+    padding: 20px;
+    background-color: white;
+}
+
+.item-catagory:hover {
+    box-shadow: 20px 20px 60px #bebebe,
+        -20px -20px 60px #ffffff;
+    ;
+}
+
+.item-cat-info {
+    position: absolute;
+    display: flex;
+    width: 100%;
+    text-align: center;
+    height: auto;
+    padding: 0px 0px;
+    bottom:10px;
+}
+
+.item-cat-info p {
+    color: rgba(0, 0, 0, 0.842);
+    width: 100%;
+    padding: 15px 5px;
+    font-size: 25px;
+    font-weight: 800;
+    color:rgb(199, 116, 7);
+}
+
+
+/* catagory Page css Ends*/
+
+
 
 
 footer {
