@@ -144,9 +144,46 @@ function displayCartSummary(){
 displayCartSummary();
 
 
+document.querySelectorAll('.item-bottom').forEach(item => {
+
+let countPlus = item.querySelector('.PlusBtn');
+let countMinus = item.querySelector('.minusBtn');
+let quantity = item.querySelector('.quantity');
+let itemId = item.getAttribute('data-id'); 
 
 
+// Load the initial quantity from localStorage
+let savedQuantity = localStorage.getItem(`quantity-${itemId}`);
+let counter = savedQuantity ? parseInt(savedQuantity) : parseInt(quantity.value);
+quantity.value = counter;  // Update the input field with the stored value
+
+countPlus.addEventListener('click', () => {
+    counter++;
+    quantity.value = counter;
+    localStorage.setItem(`quantity-${itemId}`, counter);  // Save the updated quantity
+});
+
+countMinus.addEventListener('click', () => {
+    if (counter > 1) {
+        counter--;
+        quantity.value = counter;
+        localStorage.setItem(`quantity-${itemId}`, counter);  // Save the updated quantity
+    } 
+    else {
+        alert("Quantity cannot be less than 1");
+    }
+});
+});
 
 
+// Function to load quantities on page load
+function loadQuantity() {
+    document.querySelectorAll('.item-bottom').forEach(item => {
+        let itemId = item.getAttribute('data-id');
+        let savedQuantity = localStorage.getItem(`quantity-${itemId}`);
+        let quantity = item.querySelector('.quantity');
+        quantity.value = savedQuantity ? savedQuantity : 1;
+    });
+}
 
-
+loadQuantity();  // Call the function to load quantities when the page loads
