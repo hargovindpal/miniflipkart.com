@@ -88,7 +88,6 @@ function addtowishlistfromcart(itemId){
 }
 
 
-
 function displayCartSummary(){
     let bagSummary = document.querySelector('.summary-container');
     let totalItems = cartItemObjects.length;
