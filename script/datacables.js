@@ -1,7 +1,7 @@
 const datacables = [
     {
         id:'01',
-        item_image: 'item-category/datacable/datacable6.webp',
+        item_image: 'item-category/datacable/3 in 1 display cable.jpeg',
         item_info:'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
         seller:'Harry',
         delivery_date:'15-06-2024',
@@ -13,8 +13,8 @@ const datacables = [
         offer:'Bank Offer'
     },
     {
-        id:'01',
-        item_image: 'item-category/datacable/datacable6.webp',
+        id:'02',
+        item_image: 'item-category/datacable/3 in 1 ring cable.webp',
         item_info:'Men Printed Round Neck Polyester Black T-Shirt',
         seller:'Harry',
         delivery_date:'15-06-2024',
@@ -26,8 +26,8 @@ const datacables = [
         offer:'Bank Offer'
     },
     {
-        id:'01',
-        item_image: 'item-category/datacable/datacable6.webp',
+        id:'03',
+        item_image: 'item-category/datacable/3in1 cable.webp',
         item_info:'Men Printed Round Neck Polyester Black T-Shirt',
         seller:'Harry',
         delivery_date:'15-06-2024',
@@ -39,8 +39,8 @@ const datacables = [
         offer:'Bank Offer'
     },
     {
-        id:'01',
-        item_image: 'item-category/datacable/datacable6.webp',
+        id:'04',
+        item_image: 'item-category/datacable/6A cable.jpeg',
         item_info:'Men Printed Round Neck Polyester Black T-Shirt',
         seller:'Harry',
         delivery_date:'15-06-2024',
@@ -52,8 +52,8 @@ const datacables = [
         offer:'Bank Offer'
     },
     {
-        id:'01',
-        item_image: 'item-category/datacable/datacable6.webp',
+        id:'05',
+        item_image: 'item-category/datacable/25W u&i cable.jpeg',
         item_info:'Men Printed Round Neck Polyester Black T-Shirt',
         seller:'Harry',
         delivery_date:'15-06-2024',
@@ -65,8 +65,8 @@ const datacables = [
         offer:'Bank Offer'
     },
     {
-        id:'01',
-        item_image: 'item-category/datacable/datacable6.webp',
+        id:'06',
+        item_image: 'item-category/datacable/65W cable.webp',
         item_info:'Men Printed Round Neck Polyester Black T-Shirt',
         seller:'Harry',
         delivery_date:'15-06-2024',
@@ -78,8 +78,8 @@ const datacables = [
         offer:'Bank Offer'
     },
     {
-        id:'01',
-        item_image: 'item-category/datacable/datacable6.webp',
+        id:'07',
+        item_image: 'item-category/datacable/85W cable-2.jpeg',
         item_info:'Men Printed Round Neck Polyester Black T-Shirt',
         seller:'Harry',
         delivery_date:'15-06-2024',
@@ -90,4 +90,84 @@ const datacables = [
         delivery:'40',
         offer:'Bank Offer'
     },
+    {
+        id:'08',
+        item_image: 'item-category/datacable/85W cable.jpeg',
+        item_info:'Men Printed Round Neck Polyester Black T-Shirt',
+        seller:'Harry',
+        delivery_date:'15-06-2024',
+        rating: '4.5',
+        current_price:'300',
+        actual_price:'3000',
+        discount:'90',
+        delivery:'40',
+        offer:'Bank Offer'
+    },
+    {
+        id:'09',
+        item_image: 'item-category/datacable/100OG cable.jpeg',
+        item_info:'Men Printed Round Neck Polyester Black T-Shirt',
+        seller:'Harry',
+        delivery_date:'15-06-2024',
+        rating: '4.5',
+        current_price:'300',
+        actual_price:'3000',
+        discount:'90',
+        delivery:'40',
+        offer:'Bank Offer'
+    },
+    {
+        id:'10',
+        item_image: 'item-category/datacable/120w cable.webp',
+        item_info:'Men Printed Round Neck Polyester Black T-Shirt',
+        seller:'Harry',
+        delivery_date:'15-06-2024',
+        rating: '4.5',
+        current_price:'300',
+        actual_price:'3000',
+        discount:'90',
+        delivery:'40',
+        offer:'Bank Offer'
+    },
+    {
+        id:'11',
+        item_image: 'item-category/datacable/120W metal cable.jpeg',
+        item_info:'Men Printed Round Neck Polyester Black T-Shirt',
+        seller:'Harry',
+        delivery_date:'15-06-2024',
+        rating: '4.5',
+        current_price:'300',
+        actual_price:'3000',
+        discount:'90',
+        delivery:'40',
+        offer:'Bank Offer'
+    },
+    {
+        id:'12',
+        item_image: 'item-category/datacable/120W metal cable.webp',
+        item_info:'Men Printed Round Neck Polyester Black T-Shirt',
+        seller:'Harry',
+        delivery_date:'15-06-2024',
+        rating: '4.5',
+        current_price:'300',
+        actual_price:'3000',
+        discount:'90',
+        delivery:'40',
+        offer:'Bank Offer'
+    },
+    {
+        id:'13',
+        item_image: 'item-category/datacable/multi pin cable.jpeg',
+        item_info:'Men Printed Round Neck Polyester Black T-Shirt',
+        seller:'Harry',
+        delivery_date:'15-06-2024',
+        rating: '4.5',
+        current_price:'300',
+        actual_price:'3000',
+        discount:'90',
+        delivery:'40',
+        offer:'Bank Offer'
+    },
+
+
 ]

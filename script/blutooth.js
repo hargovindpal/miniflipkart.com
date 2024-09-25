@@ -1,7 +1,7 @@
-const datacables = [
+const blutooth = [
     {
         id:'01',
-        item_image: 'item-category/datacable/datacable6.webp',
+        item_image: 'item-category/blutooth/i12 color earbuds.jpeg',
         item_info:'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
         seller:'Harry',
         delivery_date:'15-06-2024',
@@ -13,8 +13,8 @@ const datacables = [
         offer:'Bank Offer'
     },
     {
-        id:'01',
-        item_image: 'item-category/datacable/datacable6.webp',
+        id:'02',
+        item_image: 'item-category/blutooth/i-12 earbuds.webp',
         item_info:'Men Printed Round Neck Polyester Black T-Shirt',
         seller:'Harry',
         delivery_date:'15-06-2024',
@@ -26,8 +26,8 @@ const datacables = [
         offer:'Bank Offer'
     },
     {
-        id:'01',
-        item_image: 'item-category/datacable/datacable6.webp',
+        id:'03',
+        item_image: 'item-category/blutooth/anc black-original earbuds.jpeg',
         item_info:'Men Printed Round Neck Polyester Black T-Shirt',
         seller:'Harry',
         delivery_date:'15-06-2024',
@@ -39,8 +39,8 @@ const datacables = [
         offer:'Bank Offer'
     },
     {
-        id:'01',
-        item_image: 'item-category/datacable/datacable6.webp',
+        id:'04',
+        item_image: 'item-category/blutooth/anc white blutooth.jpeg',
         item_info:'Men Printed Round Neck Polyester Black T-Shirt',
         seller:'Harry',
         delivery_date:'15-06-2024',
@@ -52,8 +52,8 @@ const datacables = [
         offer:'Bank Offer'
     },
     {
-        id:'01',
-        item_image: 'item-category/datacable/datacable6.webp',
+        id:'05',
+        item_image: 'item-category/blutooth/boat extra battery neckband.jpeg',
         item_info:'Men Printed Round Neck Polyester Black T-Shirt',
         seller:'Harry',
         delivery_date:'15-06-2024',
@@ -65,8 +65,8 @@ const datacables = [
         offer:'Bank Offer'
     },
     {
-        id:'01',
-        item_image: 'item-category/datacable/datacable6.webp',
+        id:'06',
+        item_image: 'item-category/blutooth/boat transparnt-neckband.jpeg',
         item_info:'Men Printed Round Neck Polyester Black T-Shirt',
         seller:'Harry',
         delivery_date:'15-06-2024',
@@ -78,8 +78,99 @@ const datacables = [
         offer:'Bank Offer'
     },
     {
-        id:'01',
-        item_image: 'item-category/datacable/datacable6.webp',
+        id:'07',
+        item_image: 'item-category/blutooth/m10 earbuds.webp',
+        item_info:'Men Printed Round Neck Polyester Black T-Shirt',
+        seller:'Harry',
+        delivery_date:'15-06-2024',
+        rating: '4.5',
+        current_price:'300',
+        actual_price:'3000',
+        discount:'90',
+        delivery:'40',
+        offer:'Bank Offer'
+    },
+    {
+        id:'08',
+        item_image: 'item-category/blutooth/noise earbuds.webp',
+        item_info:'Men Printed Round Neck Polyester Black T-Shirt',
+        seller:'Harry',
+        delivery_date:'15-06-2024',
+        rating: '4.5',
+        current_price:'300',
+        actual_price:'3000',
+        discount:'90',
+        delivery:'40',
+        offer:'Bank Offer'
+    },
+    {
+        id:'09',
+        item_image: 'item-category/blutooth/microphone1.webp',
+        item_info:'Men Printed Round Neck Polyester Black T-Shirt',
+        seller:'Harry',
+        delivery_date:'15-06-2024',
+        rating: '4.5',
+        current_price:'300',
+        actual_price:'3000',
+        discount:'90',
+        delivery:'40',
+        offer:'Bank Offer'
+    },
+    {
+        id:'10',
+        item_image: 'item-category/blutooth/pro transparent earbuds.jpeg',
+        item_info:'Men Printed Round Neck Polyester Black T-Shirt',
+        seller:'Harry',
+        delivery_date:'15-06-2024',
+        rating: '4.5',
+        current_price:'300',
+        actual_price:'3000',
+        discount:'90',
+        delivery:'40',
+        offer:'Bank Offer'
+    },
+    {
+        id:'11',
+        item_image: 'item-category/blutooth/realme neckband.jpeg',
+        item_info:'Men Printed Round Neck Polyester Black T-Shirt',
+        seller:'Harry',
+        delivery_date:'15-06-2024',
+        rating: '4.5',
+        current_price:'300',
+        actual_price:'3000',
+        discount:'90',
+        delivery:'40',
+        offer:'Bank Offer'
+    },
+    {
+        id:'12',
+        item_image: 'item-category/blutooth/sh12 headphone.jpeg',
+        item_info:'Men Printed Round Neck Polyester Black T-Shirt',
+        seller:'Harry',
+        delivery_date:'15-06-2024',
+        rating: '4.5',
+        current_price:'300',
+        actual_price:'3000',
+        discount:'90',
+        delivery:'40',
+        offer:'Bank Offer'
+    },
+    {
+        id:'13',
+        item_image: 'item-category/blutooth/transparent earbuds 2.webp',
+        item_info:'Men Printed Round Neck Polyester Black T-Shirt',
+        seller:'Harry',
+        delivery_date:'15-06-2024',
+        rating: '4.5',
+        current_price:'300',
+        actual_price:'3000',
+        discount:'90',
+        delivery:'40',
+        offer:'Bank Offer'
+    },
+    {
+        id:'14',
+        item_image: 'item-category/blutooth/transparent earbuds.webp',
         item_info:'Men Printed Round Neck Polyester Black T-Shirt',
         seller:'Harry',
         delivery_date:'15-06-2024',

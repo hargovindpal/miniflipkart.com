@@ -1,6 +1,6 @@
-let wishlistCount = '';
+var wishlistCount = '';
 var wishlist = [];
-let bagItems;
+var bagItems;
 
 
 let displayItemsOnHomePage=()=>{
@@ -10,7 +10,7 @@ if(!itemsContainer){
     return;
 }
 let innerHtml= '';
-battery.forEach(item =>{
+items.forEach(item =>{
 
 innerHtml += ` <div class="item-container">
                                 <div class="like">
