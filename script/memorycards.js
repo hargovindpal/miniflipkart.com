@@ -1,6 +1,6 @@
 const memorycards = [
     {
-        id: '01',
+        id: '64',
         item_image: 'item-category/memorycards/cross-8GB.jpeg',
         item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
         seller: 'Harry',

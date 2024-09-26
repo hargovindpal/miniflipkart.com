@@ -1,6 +1,6 @@
 const earphones = [
     {
-        id: '01',
+        id: '65',
         item_image: 'item-category/earphones/sam-earphone.jpeg',
         item_info: 'Samsung Earphone Pack of 2',
         seller: 'Harry',
@@ -13,7 +13,7 @@ const earphones = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '66',
         item_image: 'item-category/earphones/boat earphone-50.jpeg',
         item_info: 'Boat Earphone Pack of 2',
         seller: 'Harry',
@@ -26,7 +26,7 @@ const earphones = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '67',
         item_image: 'item-category/earphones/akg-earphone.jpeg',
         item_info: 'AKG Earphone high Quality Pack of 1',
         seller: 'Harry',
@@ -39,7 +39,7 @@ const earphones = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '68',
         item_image: 'item-category/earphones/earphone-100.jpeg',
         item_info: 'Boat high Quality bass Pack of 1',
         seller: 'Harry',
@@ -52,7 +52,7 @@ const earphones = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '69',
         item_image: 'item-category/earphones/realme earphone.jpeg',
         item_info: 'Realme High Quality Bass Earphone',
         seller: 'Harry',
@@ -65,7 +65,7 @@ const earphones = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '70',
         item_image: 'item-category/earphones/type-c earphone.jpeg',
         item_info: 'Type-C High Super Earphone',
         seller: 'Harry',

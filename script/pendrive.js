@@ -1,6 +1,6 @@
 const pendrives = [
     {
-        id: '01',
+        id: '84',
         item_image: 'item-category/pendrive/card read small usb.jpeg',
         item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
         seller: 'Harry',
@@ -13,7 +13,7 @@ const pendrives = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '85',
         item_image: 'item-category/pendrive/sandisk 64GB pendrive.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',

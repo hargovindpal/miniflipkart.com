@@ -1,6 +1,6 @@
 var batteries = [
     {
-        id: '01',
+        id: '61',
         item_image: 'item-category/battery/drone battery.jpeg',
         item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
         seller: 'Harry',
@@ -13,7 +13,7 @@ var batteries = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '62',
         item_image: 'item-category/battery/mi 2000 mah powebank.jpeg',
         item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
         seller: 'Harry',
@@ -26,7 +26,7 @@ var batteries = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '63',
         item_image: 'item-category/battery/samsung-5c.jpeg',
         item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
         seller: 'Harry',

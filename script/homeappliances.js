@@ -1,6 +1,6 @@
 const homeappliances = [
     {
-        id: '01',
+        id: '112',
         item_image: 'item-category/homeappliances/bajaj-invertor-bulb.webp',
         item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
         seller: 'Harry',
@@ -13,7 +13,7 @@ const homeappliances = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '113',
         item_image: 'item-category/homeappliances/crompton-invertor-bulb.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',

@@ -1,6 +1,6 @@
 const lights = [
     {
-        id: '01',
+        id: '93',
         item_image: 'item-category/lights/ball-light.webp',
         item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
         seller: 'Harry',
@@ -13,7 +13,7 @@ const lights = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '94',
         item_image: 'item-category/lights/cliplight.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -26,7 +26,7 @@ const lights = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '95',
         item_image: 'item-category/lights/colorbulb1.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -39,7 +39,7 @@ const lights = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '96',
         item_image: 'item-category/lights/colorbulb2.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -52,7 +52,7 @@ const lights = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '97',
         item_image: 'item-category/lights/colorbulb3.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -65,7 +65,7 @@ const lights = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '98',
         item_image: 'item-category/lights/colorstarlight.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -78,7 +78,7 @@ const lights = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '99',
         item_image: 'item-category/lights/starlight-warm.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -91,7 +91,7 @@ const lights = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '100',
         item_image: 'item-category/lights/bottlelight.webp',
         item_info: 'Pack of 4',
         seller: 'Harry',
@@ -104,7 +104,7 @@ const lights = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '101',
         item_image: 'item-category/lights/diya-12.webp',
         item_info: 'Pack of 12',
         seller: 'Harry',
@@ -117,7 +117,7 @@ const lights = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '102',
         item_image: 'item-category/lights/heart-light.jpg',
         item_info: '6+6 Warm white lights Pack of 1',
         seller: 'Harry',
@@ -130,7 +130,7 @@ const lights = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '103',
         item_image: 'item-category/lights/diya-light.webp',
         item_info: '6+6 Warm white lights Pack of 1',
         seller: 'Harry',
@@ -143,7 +143,7 @@ const lights = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '104',
         item_image: 'item-category/lights/led glu strip.webp',
         item_info: 'Multicolor lights Pack of 1',
         seller: 'Harry',
@@ -156,7 +156,7 @@ const lights = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '105',
         item_image: 'item-category/lights/patta light-12ft.webp',
         item_info: '12ft Multicolor running lights Pack of 1',
         seller: 'Harry',
@@ -169,7 +169,7 @@ const lights = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '106',
         item_image: 'item-category/lights/starlight-warm.webp',
         item_info: '6+6 Warm White lights Pack of 1',
         seller: 'Harry',
@@ -182,7 +182,7 @@ const lights = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '107',
         item_image: 'item-category/lights/swastik-light.webp',
         item_info: '6+6 Warm White lights Pack of 1',
         seller: 'Harry',
@@ -197,7 +197,7 @@ const lights = [
     
     
     {
-        id: '01',
+        id: '108',
         item_image: 'item-category/lights/glass light.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -210,7 +210,7 @@ const lights = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '109',
         item_image: 'item-category/lights/wall-solar light -2.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -223,7 +223,7 @@ const lights = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '110',
         item_image: 'item-category/lights/wall-solar-light.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -236,9 +236,9 @@ const lights = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '111',
         item_image: 'item-category/lights/torch-129.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'High Beam Light',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',

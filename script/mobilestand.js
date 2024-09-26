@@ -1,6 +1,6 @@
 const mobilestands = [
     {
-        id: '01',
+        id: '77',
         item_image: 'item-category/mobilestand/mobile plug holder.webp',
         item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
         seller: 'Harry',
@@ -13,7 +13,7 @@ const mobilestands = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '78',
         item_image: 'item-category/mobilestand/mobile premium stand.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -26,7 +26,7 @@ const mobilestands = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '79',
         item_image: 'item-category/mobilestand/mobile round stand.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -39,7 +39,7 @@ const mobilestands = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '80',
         item_image: 'item-category/mobilestand/mobilestand20.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -52,7 +52,7 @@ const mobilestands = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '81',
         item_image: 'item-category/mobilestand/selfie stand with light.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -65,7 +65,7 @@ const mobilestands = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '82',
         item_image: 'item-category/mobilestand/selfie stand without light.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -78,7 +78,7 @@ const mobilestands = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '83',
         item_image: 'item-category/mobilestand/triangle stnad.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',

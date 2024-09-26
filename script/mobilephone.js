@@ -1,6 +1,6 @@
 const mobilephones = [
     {
-        id: '01',
+        id: '86',
         item_image: 'item-category/mobilephones/sam-B310 E.jpeg',
         item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
         seller: 'Harry',
@@ -13,7 +13,7 @@ const mobilephones = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '87',
         item_image: 'item-category/mobilephones/sam-guru-1200.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -26,7 +26,7 @@ const mobilephones = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '88',
         item_image: 'item-category/mobilephones/sam-keytone-2 guru.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -39,7 +39,7 @@ const mobilephones = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '89',
         item_image: 'item-category/mobilephones/nokia.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -52,7 +52,7 @@ const mobilephones = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '90',
         item_image: 'item-category/mobilephones/nokia 105.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -65,7 +65,7 @@ const mobilephones = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '91',
         item_image: 'item-category/mobilephones/jio phone.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -78,7 +78,7 @@ const mobilephones = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '92',
         item_image: 'item-category/mobilephones/flip phone.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',

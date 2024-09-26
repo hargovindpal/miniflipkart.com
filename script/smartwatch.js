@@ -1,6 +1,6 @@
 const smartwatches = [
     {
-        id: '01',
+        id: '42',
         item_image: 'item-category/smartwatch/firebolt-1.jpeg',
         item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
         seller: 'Harry',
@@ -13,7 +13,7 @@ const smartwatches = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '43',
         item_image: 'item-category/smartwatch/firebolt-2.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -26,7 +26,7 @@ const smartwatches = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '44',
         item_image: 'item-category/smartwatch/s8 watch.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -39,7 +39,7 @@ const smartwatches = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '45',
         item_image: 'item-category/smartwatch/series 9 watch.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -52,7 +52,7 @@ const smartwatches = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '46',
         item_image: 'item-category/smartwatch/t-10 ulta.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -65,7 +65,7 @@ const smartwatches = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '47',
         item_image: 'item-category/smartwatch/t800 ultra.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -78,7 +78,7 @@ const smartwatches = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '48',
         item_image: 'item-category/smartwatch/smartwatch-180.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',

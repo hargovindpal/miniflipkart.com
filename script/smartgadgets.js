@@ -1,6 +1,6 @@
 const smartgadgets = [
     {
-        id: '01',
+        id: '114',
         item_image: 'item-category/smartgadgets/cable protector.jpeg',
         item_info: 'Cable Protector Pack of 3',
         seller: 'Harry',
@@ -13,7 +13,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '115',
         item_image: 'item-category/smartgadgets/connector1.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -26,7 +26,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '116',
         item_image: 'item-category/smartgadgets/connectors4.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -39,7 +39,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '117',
         item_image: 'item-category/smartgadgets/dancing cactus.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -52,7 +52,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '118',
         item_image: 'item-category/smartgadgets/drone.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -65,7 +65,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '119',
         item_image: 'item-category/smartgadgets/hairdrier.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -78,7 +78,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '120',
         item_image: 'item-category/smartgadgets/k9 mic.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -91,7 +91,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '121',
         item_image: 'item-category/smartgadgets/led usb bulb.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -104,7 +104,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '122',
         item_image: 'item-category/smartgadgets/mini projector.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -117,7 +117,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '123',
         item_image: 'item-category/smartgadgets/moscuto bat-2.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -130,7 +130,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '124',
         item_image: 'item-category/smartgadgets/otg 30.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -143,7 +143,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '125',
         item_image: 'item-category/smartgadgets/otg-50.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -156,7 +156,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '126',
         item_image: 'item-category/smartgadgets/pen stand.jpeg',
         item_info: 'Pen Stand & Writing Pack of 3',
         seller: 'Harry',
@@ -169,7 +169,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '127',
         item_image: 'item-category/smartgadgets/plug hub -10 pin.webp',
         item_info: 'Lady Jointer 10-Pin Switch',
         seller: 'Harry',
@@ -182,7 +182,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '128',
         item_image: 'item-category/smartgadgets/plug hub combo.webp',
         item_info: 'Lady Jointer 10-Pin Switch Pack of 2',
         seller: 'Harry',
@@ -195,7 +195,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '129',
         item_image: 'item-category/smartgadgets/pubg thumb.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -208,7 +208,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '130',
         item_image: 'item-category/smartgadgets/sim ejector.jpeg',
         item_info: 'Sim Ejector Pack of 10',
         seller: 'Harry',
@@ -221,7 +221,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '131',
         item_image: 'item-category/smartgadgets/torch mulitpurpose.jpeg',
         item_info: 'Multipurpose Torch',
         seller: 'Harry',
@@ -234,7 +234,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '132',
         item_image: 'item-category/smartgadgets/treamer.jpeg',
         item_info: 'Vintage Treamer Super Quality',
         seller: 'Harry',
@@ -247,7 +247,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '133',
         item_image: 'item-category/smartgadgets/usbhub.webp',
         item_info: '4 in 1 USB Hub Connector Super Quality',
         seller: 'Harry',
@@ -260,7 +260,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '134',
         item_image: 'item-category/smartgadgets/v8 to type c.jpeg',
         item_info: 'V8 to Type-C Connector pack of 1',
         seller: 'Harry',
@@ -273,7 +273,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '135',
         item_image: 'item-category/smartgadgets/vaccumcleaner.webp',
         item_info: 'Vaccum Cleaner Pack of 1',
         seller: 'Harry',
@@ -286,7 +286,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '136',
         item_image: 'item-category/smartgadgets/water bottle temperature.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -299,7 +299,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '137',
         item_image: 'item-category/smartgadgets/wireless blutooth-2.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -312,7 +312,7 @@ const smartgadgets = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '138',
         item_image: 'item-category/smartgadgets/writing pad.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',

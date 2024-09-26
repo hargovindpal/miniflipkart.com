@@ -1,6 +1,6 @@
 const mobilecovers = [
     {
-        id: '01',
+        id: '71',
         item_image: 'item-category/mobilecover/6dcover.jpeg',
         item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
         seller: 'Harry',
@@ -13,7 +13,7 @@ const mobilecovers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '72',
         item_image: 'item-category/mobilecover/doll.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -26,7 +26,7 @@ const mobilecovers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '73',
         item_image: 'item-category/mobilecover/flip-cover.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -39,7 +39,7 @@ const mobilecovers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '74',
         item_image: 'item-category/mobilecover/metalringcover.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -52,7 +52,7 @@ const mobilecovers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '75',
         item_image: 'item-category/mobilecover/puffcover.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -65,7 +65,7 @@ const mobilecovers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '76',
         item_image: 'item-category/mobilecover/socool.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',

@@ -1,6 +1,6 @@
 const speakers = [
     {
-        id: '01',
+        id: '49',
         item_image: 'item-category/speakers/tyre-speaker.jpeg',
         item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
         seller: 'Harry',
@@ -14,7 +14,7 @@ const speakers = [
     },
 
     {
-        id: '01',
+        id: '50',
         item_image: 'item-category/speakers/halozan.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -27,7 +27,7 @@ const speakers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '51',
         item_image: 'item-category/speakers/light sound bulb.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -40,7 +40,7 @@ const speakers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '52',
         item_image: 'item-category/speakers/minispeaker.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -53,7 +53,7 @@ const speakers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '53',
         item_image: 'item-category/speakers/mz soundbar.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -67,7 +67,7 @@ const speakers = [
     },
 
     {
-        id: '01',
+        id: '54',
         item_image: 'item-category/speakers/mz-soundbar-2.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -80,7 +80,7 @@ const speakers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '55',
         item_image: 'item-category/speakers/disco-speaker.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -94,7 +94,7 @@ const speakers = [
     },
 
     {
-        id: '01',
+        id: '56',
         item_image: 'item-category/speakers/mzspeaker-2.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -107,7 +107,7 @@ const speakers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '57',
         item_image: 'item-category/speakers/mzspeaker-3.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -121,7 +121,7 @@ const speakers = [
     },
 
     {
-        id: '01',
+        id: '58',
         item_image: 'item-category/speakers/mzspeaker.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -134,7 +134,7 @@ const speakers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '59',
         item_image: 'item-category/speakers/speaker mic sound.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -147,7 +147,7 @@ const speakers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '60',
         item_image: 'item-category/speakers/woodspeaker.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
