@@ -156,7 +156,7 @@ body {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    width: 100%;
+    width: 100% !important;
     gap: 30px;
     justify-content: center;
     padding: 180px 0px;
@@ -483,7 +483,7 @@ h4 {
     width: 100%;
     gap: 10px;
     justify-content: center;
-    padding: 100px 0px;
+    padding: 300px 0px  50px 0px;
     background-color: #f1f3f6;
 }
 
@@ -648,9 +648,6 @@ span i {
 
 
 
-
-
-
 /*CART PAGE CSS*/
 
 .cart-container {
@@ -658,7 +655,7 @@ span i {
     width: 100%;
     gap: 10px;
     justify-content: center;
-    padding: 100px 0px;
+    padding: 300px 0px  50px 0px;
     background-color: #f1f3f6;
 }
 
