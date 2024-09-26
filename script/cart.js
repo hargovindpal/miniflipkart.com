@@ -99,7 +99,7 @@ function displayCartSummary(){
 
     cartItemObjects.forEach(cartItem=>{
         totalPrice += parseInt(cartItem.actual_price);
-        totalDiscount += cartItem.discount ? parseInt((cartItem.actual_price*cartItem.discount)/100) : 0;
+        totalDiscount += cartItem.discount ? parseInt(cartItem.actual_price-cartItem.current_price) : 0;
         totalCharges += cartItem.delivery ? parseInt(cartItem.delivery) : "Free Delivery";
     });
     finalAmount = totalPrice - totalDiscount + totalCharges;
