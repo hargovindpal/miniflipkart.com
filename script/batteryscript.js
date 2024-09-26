@@ -10,7 +10,7 @@ if(!itemsContainer){
     return;
 }
 let innerHtml= '';
-items.forEach(item =>{
+batteries.forEach(item =>{
 
 innerHtml += ` <div class="item-container">
                                 <div class="like">

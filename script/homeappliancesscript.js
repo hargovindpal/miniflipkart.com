@@ -10,7 +10,7 @@ if(!itemsContainer){
     return;
 }
 let innerHtml= '';
-datacables.forEach(item =>{
+homeappliances.forEach(item =>{
 
 innerHtml += ` <div class="item-container">
                                 <div class="like">
