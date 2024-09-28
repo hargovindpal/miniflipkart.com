@@ -1,6 +1,6 @@
 const tempers = [
     {
-        id:'01',
+        id:'25',
         item_image: 'item-category/temper/security glass.jpeg',
         item_info:'Anti-Static Privacy HD Tempered Glass - Super Quality',
         seller:'Harry',
@@ -13,7 +13,7 @@ const tempers = [
         offer:'Bank Offer'
     },
     {
-        id:'01',
+        id:'26',
         item_image: 'item-category/temper/super-x-temper.jpeg',
         item_info:'Super-X HD Tempered Glass - High Quality',
         seller:'Harry',
@@ -26,7 +26,7 @@ const tempers = [
         offer:'Bank Offer'
     },
     {
-        id:'01',
+        id:'27',
         item_image: 'item-category/temper/uv glass temper.jpeg',
         item_info:'UV-Privacy Glass Curved-Temper',
         seller:'Harry',

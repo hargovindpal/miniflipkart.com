@@ -1,6 +1,6 @@
 const chargers = [
     {
-        id: '01',
+        id: '12',
         item_image: 'item-category/charger/2.1A-vivo charger.webp',
         item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
         seller: 'Harry',
@@ -13,7 +13,7 @@ const chargers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '13',
         item_image: 'item-category/charger/20W mini dash.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -26,7 +26,7 @@ const chargers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '14',
         item_image: 'item-category/charger/25Wdash charger.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -39,7 +39,7 @@ const chargers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '15',
         item_image: 'item-category/charger/30W charger.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -52,7 +52,7 @@ const chargers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '16',
         item_image: 'item-category/charger/45W charger.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -65,7 +65,7 @@ const chargers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '17',
         item_image: 'item-category/charger/85W charger.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -78,7 +78,7 @@ const chargers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '18',
         item_image: 'item-category/charger/apple charger-2.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -91,7 +91,7 @@ const chargers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '19',
         item_image: 'item-category/charger/apple-charger.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -104,7 +104,7 @@ const chargers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '20',
         item_image: 'item-category/charger/car charger.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -117,7 +117,7 @@ const chargers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '21',
         item_image: 'item-category/charger/sam-doc.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -130,7 +130,7 @@ const chargers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '22',
         item_image: 'item-category/charger/sam-pd charger.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -143,7 +143,7 @@ const chargers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '23',
         item_image: 'item-category/charger/ubon transparent-charger.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -156,7 +156,7 @@ const chargers = [
         offer: 'Bank Offer'
     },
     {
-        id: '01',
+        id: '24',
         item_image: 'item-category/charger/vivo 100 OG.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',

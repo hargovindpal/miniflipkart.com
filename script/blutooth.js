@@ -1,6 +1,6 @@
 const blutooth = [
     {
-        id: '01',
+        id: '28',
         item_image: 'item-category/blutooth/i12 color earbuds.jpeg',
         item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
         seller: 'Harry',
@@ -13,7 +13,7 @@ const blutooth = [
         offer: 'Bank Offer'
     },
     {
-        id: '02',
+        id: '29',
         item_image: 'item-category/blutooth/i-12 earbuds.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -26,7 +26,7 @@ const blutooth = [
         offer: 'Bank Offer'
     },
     {
-        id: '03',
+        id: '30',
         item_image: 'item-category/blutooth/anc black-original earbuds.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -39,7 +39,7 @@ const blutooth = [
         offer: 'Bank Offer'
     },
     {
-        id: '04',
+        id: '31',
         item_image: 'item-category/blutooth/anc white blutooth.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -52,7 +52,7 @@ const blutooth = [
         offer: 'Bank Offer'
     },
     {
-        id: '05',
+        id: '32',
         item_image: 'item-category/blutooth/boat extra battery neckband.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -65,7 +65,7 @@ const blutooth = [
         offer: 'Bank Offer'
     },
     {
-        id: '06',
+        id: '33',
         item_image: 'item-category/blutooth/boat transparnt-neckband.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -78,7 +78,7 @@ const blutooth = [
         offer: 'Bank Offer'
     },
     {
-        id: '07',
+        id: '34',
         item_image: 'item-category/blutooth/m10 earbuds.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -91,7 +91,7 @@ const blutooth = [
         offer: 'Bank Offer'
     },
     {
-        id: '08',
+        id: '35',
         item_image: 'item-category/blutooth/noise earbuds.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -104,7 +104,7 @@ const blutooth = [
         offer: 'Bank Offer'
     },
     {
-        id: '09',
+        id: '36',
         item_image: 'item-category/blutooth/microphone1.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -117,7 +117,7 @@ const blutooth = [
         offer: 'Bank Offer'
     },
     {
-        id: '10',
+        id: '37',
         item_image: 'item-category/blutooth/pro transparent earbuds.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -130,7 +130,7 @@ const blutooth = [
         offer: 'Bank Offer'
     },
     {
-        id: '11',
+        id: '38',
         item_image: 'item-category/blutooth/realme neckband.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -143,7 +143,7 @@ const blutooth = [
         offer: 'Bank Offer'
     },
     {
-        id: '12',
+        id: '39',
         item_image: 'item-category/blutooth/sh12 headphone.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -156,7 +156,7 @@ const blutooth = [
         offer: 'Bank Offer'
     },
     {
-        id: '13',
+        id: '40',
         item_image: 'item-category/blutooth/transparent earbuds 2.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -169,7 +169,7 @@ const blutooth = [
         offer: 'Bank Offer'
     },
     {
-        id: '14',
+        id: '41',
         item_image: 'item-category/blutooth/transparent earbuds.webp',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -181,4 +181,5 @@ const blutooth = [
         delivery: '00',
         offer: 'Bank Offer'
     },
+    
 ]

@@ -131,7 +131,7 @@ const datacables = [
     },
 
     {
-        id: '13',
+        id: '11',
         item_image: 'item-category/datacable/multi pin cable.jpeg',
         item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
         seller: 'Harry',
@@ -143,6 +143,5 @@ const datacables = [
         delivery: '00',
         offer: 'Bank Offer'
     },
-
 
 ]
