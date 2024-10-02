@@ -181,5 +181,32 @@ const blutooth = [
         delivery: '00',
         offer: 'Bank Offer'
     },
+    {
+        id: '139',
+        item_image: 'item-category/blutooth/1+ earbuds.png',
+        item_info: '1+ Earbud',
+        seller: 'Harry',
+        delivery_date: '15-06-2024',
+        rating: '4.5',
+        current_price: '729',
+        actual_price: '1200',
+        discount: '40',
+        delivery: '00',
+        offer: 'Bank Offer'
+    },
+   
+    {
+        id: '140',
+        item_image: 'item-category/blutooth/boat-transparent earbuds.png',
+        item_info: 'Boat Transparent Earbud',
+        seller: 'Harry',
+        delivery_date: '15-06-2024',
+        rating: '4.5',
+        current_price: '729',
+        actual_price: '1200',
+        discount: '40',
+        delivery: '00',
+        offer: 'Bank Offer'
+    },
     
 ]

@@ -143,5 +143,60 @@ const datacables = [
         delivery: '00',
         offer: 'Bank Offer'
     },
+    {
+        id: '142',
+        item_image: 'item-category/datacable/3.8 Turbo Riviera Cable.png',
+        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        seller: 'Harry',
+        delivery_date: '15-06-2024',
+        rating: '4.5',
+        current_price: '179',
+        actual_price: '350',
+        discount: '40',
+        delivery: '00',
+        offer: 'Bank Offer'
+    },
+    {
+        id: '143',
+        item_image: 'item-category/datacable/85W 1+ cable.png',
+        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        seller: 'Harry',
+        delivery_date: '15-06-2024',
+        rating: '4.5',
+        current_price: '179',
+        actual_price: '350',
+        discount: '40',
+        delivery: '00',
+        offer: 'Bank Offer'
+    },
+    
+    {
+        id: '144',
+        item_image: 'item-category/datacable/85W Oppo Cable.png',
+        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        seller: 'Harry',
+        delivery_date: '15-06-2024',
+        rating: '4.5',
+        current_price: '179',
+        actual_price: '350',
+        discount: '40',
+        delivery: '00',
+        offer: 'Bank Offer'
+    },
+    {
+        id: '145',
+        item_image: 'item-category/datacable/85W Vivo Cable.png',
+        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        seller: 'Harry',
+        delivery_date: '15-06-2024',
+        rating: '4.5',
+        current_price: '179',
+        actual_price: '350',
+        discount: '40',
+        delivery: '00',
+        offer: 'Bank Offer'
+    },
+
+
 
 ]

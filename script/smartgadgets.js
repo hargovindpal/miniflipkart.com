@@ -324,6 +324,19 @@ const smartgadgets = [
         delivery: '00',
         offer: 'Bank Offer'
     },
+    {
+        id: '149',
+        item_image: 'item-category/smartgadgets/RiderLed.png',
+        item_info: 'Running Bike LED Light',
+        seller: 'Harry',
+        delivery_date: '15-06-2024',
+        rating: '4.5',
+        current_price: '69',
+        actual_price: '150',
+        discount: '45',
+        delivery: '20',
+        offer: 'Bank Offer'
+    },
 
 
 ]

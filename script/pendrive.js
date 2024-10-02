@@ -25,5 +25,18 @@ const pendrives = [
         delivery: '00',
         offer: 'Bank Offer'
     },
+    {
+        id: '148',
+        item_image: 'item-category/pendrive/Big CardReader.png',
+        item_info: 'All in one Card Reader',
+        seller: 'Harry',
+        delivery_date: '15-06-2024',
+        rating: '4.5',
+        current_price: '89',
+        actual_price: '150',
+        discount: '40',
+        delivery: '00',
+        offer: 'Bank Offer'
+    },
 
 ]
