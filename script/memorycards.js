@@ -6,10 +6,10 @@ const memorycards = [
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
-        current_price: '300',
-        actual_price: '3000',
-        discount: '90',
-        delivery: '40',
+        current_price: '219',
+        actual_price: '350',
+        discount: '40',
+        delivery: '00',
         offer: 'Bank Offer'
     },
     {
@@ -19,10 +19,10 @@ const memorycards = [
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
-        current_price: '300',
-        actual_price: '3000',
-        discount: '90',
-        delivery: '40',
+        current_price: '189',
+        actual_price: '300',
+        discount: '40',
+        delivery: '00',
         offer: 'Bank Offer'
     },
     {
@@ -32,10 +32,10 @@ const memorycards = [
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
-        current_price: '300',
-        actual_price: '3000',
-        discount: '90',
-        delivery: '40',
+        current_price: '249',
+        actual_price: '450',
+        discount: '40',
+        delivery: '00',
         offer: 'Bank Offer'
     },
 
