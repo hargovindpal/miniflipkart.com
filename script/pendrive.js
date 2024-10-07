@@ -2,7 +2,7 @@ const pendrives = [
     {
         id: '84',
         item_image: 'item-category/pendrive/card read small usb.jpeg',
-        item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
+        item_info: 'Card Reader',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -15,13 +15,13 @@ const pendrives = [
     {
         id: '85',
         item_image: 'item-category/pendrive/sandisk 64GB pendrive.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: '64GB Sandisk Pendrive (6 Month Warranty)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
-        current_price: '349',
-        actual_price: '700',
-        discount: '50',
+        current_price: '429',
+        actual_price: '800',
+        discount: '45',
         delivery: '00',
         offer: 'Bank Offer'
     },

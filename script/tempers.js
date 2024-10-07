@@ -32,7 +32,7 @@ const tempers = [
         seller:'Harry',
         delivery_date:'15-06-2024',
         rating: '4.5',
-        current_price:'250',
+        current_price:'229',
         actual_price:'350',
         discount:'90',
         delivery:'00',

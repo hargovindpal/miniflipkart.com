@@ -2,7 +2,7 @@ const blutooth = [
     {
         id: '28',
         item_image: 'item-category/blutooth/i12 color earbuds.jpeg',
-        item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
+        item_info: 'Color Box earbuds(Without Guaranty)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -15,7 +15,7 @@ const blutooth = [
     {
         id: '29',
         item_image: 'item-category/blutooth/i-12 earbuds.webp',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'i-12 Earbuds (Without Guaranty)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -28,7 +28,7 @@ const blutooth = [
     {
         id: '30',
         item_image: 'item-category/blutooth/anc black-original earbuds.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'ANC-Black imported Earbuds with 3 months Warranty',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -41,7 +41,7 @@ const blutooth = [
     {
         id: '31',
         item_image: 'item-category/blutooth/anc white blutooth.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'ANC-White Earbuds (Without Guaranty)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -54,7 +54,7 @@ const blutooth = [
     {
         id: '32',
         item_image: 'item-category/blutooth/boat extra battery neckband.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Boat Neckback High Qualtiy with Extra Backup (6 Months warranty)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -67,7 +67,7 @@ const blutooth = [
     {
         id: '33',
         item_image: 'item-category/blutooth/boat transparnt-neckband.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Boat Transparent Neckband (3 Month Warranty)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -80,7 +80,7 @@ const blutooth = [
     {
         id: '34',
         item_image: 'item-category/blutooth/m10 earbuds.webp',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Earbuds with Torch+Powerbank (Without Guaranty)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -93,7 +93,7 @@ const blutooth = [
     {
         id: '35',
         item_image: 'item-category/blutooth/noise earbuds.webp',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'noise Earbuds High Quality (6 Month Warranty)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -106,7 +106,7 @@ const blutooth = [
     {
         id: '36',
         item_image: 'item-category/blutooth/microphone1.webp',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Voice Recording Single Mic',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -119,7 +119,7 @@ const blutooth = [
     {
         id: '37',
         item_image: 'item-category/blutooth/pro transparent earbuds.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Transparent Earbuds (Without Guaranty)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -132,7 +132,7 @@ const blutooth = [
     {
         id: '38',
         item_image: 'item-category/blutooth/realme neckband.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'realme Neckband (6 Month Warranty)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -145,7 +145,7 @@ const blutooth = [
     {
         id: '39',
         item_image: 'item-category/blutooth/sh12 headphone.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'SH-12 HeadPhone (without Guaranty)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -158,7 +158,7 @@ const blutooth = [
     {
         id: '40',
         item_image: 'item-category/blutooth/transparent earbuds 2.webp',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Transparent High Quality Earbuds (Without Guaranty)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -171,7 +171,7 @@ const blutooth = [
     {
         id: '41',
         item_image: 'item-category/blutooth/transparent earbuds.webp',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Transparent Earbuds (Without Guaranty)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -184,7 +184,7 @@ const blutooth = [
     {
         id: '139',
         item_image: 'item-category/blutooth/1+ earbuds.png',
-        item_info: '1+ Earbud',
+        item_info: '1+ Earbud High Quality (6 Month Warranty)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -198,7 +198,7 @@ const blutooth = [
     {
         id: '140',
         item_image: 'item-category/blutooth/boat-transparent earbuds.png',
-        item_info: 'Boat Transparent Earbud',
+        item_info: 'Boat Transparent High Quality Earbud(6 Month Warranty)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',

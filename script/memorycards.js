@@ -2,7 +2,7 @@ const memorycards = [
     {
         id: '64',
         item_image: 'item-category/memorycards/cross-8GB.jpeg',
-        item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
+        item_info: '8GB Cross Memory Card (6 Month Warranty)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -19,7 +19,7 @@ const memorycards = [
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
-        current_price: '189',
+        current_price: '179',
         actual_price: '300',
         discount: '40',
         delivery: '00',
