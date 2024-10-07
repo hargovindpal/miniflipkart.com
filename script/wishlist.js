@@ -39,7 +39,7 @@ function generateHtmlForWishList(item){
                         </div>
                         <div class="seller">
                             <span><p>Seller: ${item.seller}</p></span>
-                            <img class="assured-icon" src="assured.png">
+                            
                         </div>
                         <div class="rating">
                                 <p>${item.rating} <i class="fa-solid fa-star"></i></p>
