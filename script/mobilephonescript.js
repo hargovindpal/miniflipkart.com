@@ -25,7 +25,7 @@ innerHtml += ` <div class="item-container">
                                 </div>
                                 <div class="rating">
                                     <p>${item.rating} <i class="fa-solid fa-star"></i></p>
-                                    <img class="assured-icon" src="assured.png">
+                                 
                                 </div>
                                 <div class="price-section">
                                     <span class="current-price"><p>₹${item.current_price} </p></span>

@@ -60,11 +60,9 @@ function generateItemHtml(item){
                             </div>     
                         </div>
                         <div class="item-bottom">
-                        <div>
                         <button class="minusBtn">-</button>
                         <input class="quantity" type="text" value="0"></input>
                         <button class="PlusBtn">+</button>
-                        </div>
                         <button class="save-for-later" onclick="addtowishlistfromcart(${item.id})"> ADD TO WISHLIST</button>
                         <button class="remove-item" onclick="removeFromCart(${item.id})"> REMOVE</button>
                         </div>`; 
