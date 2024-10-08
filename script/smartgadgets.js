@@ -15,7 +15,7 @@ const smartgadgets = [
     {
         id: '115',
         item_image: 'item-category/smartgadgets/connector1.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Dish TV Connector',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -28,7 +28,7 @@ const smartgadgets = [
     {
         id: '116',
         item_image: 'item-category/smartgadgets/connectors4.webp',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Ladi jointer for Diwali Lights',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -41,7 +41,7 @@ const smartgadgets = [
     {
         id: '117',
         item_image: 'item-category/smartgadgets/dancing cactus.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Dancing Cactus for Kids Entertainment',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -54,20 +54,20 @@ const smartgadgets = [
     {
         id: '118',
         item_image: 'item-category/smartgadgets/drone.webp',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Drone with Accident Sensor 4K HD Camera',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
-        current_price: '1499',
+        current_price: '1999',
         actual_price: '3000',
-        discount: '50',
+        discount: '40',
         delivery: '00',
         offer: 'Bank Offer'
     },
     {
         id: '119',
         item_image: 'item-category/smartgadgets/hairdrier.webp',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Nova Hair Dryer with Best Quality',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -80,7 +80,7 @@ const smartgadgets = [
     {
         id: '120',
         item_image: 'item-category/smartgadgets/k9 mic.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Single Mic Voice Recording for TikTok',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -93,7 +93,7 @@ const smartgadgets = [
     {
         id: '121',
         item_image: 'item-category/smartgadgets/led usb bulb.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Mini LED USB Bulb for night vision',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -106,7 +106,7 @@ const smartgadgets = [
     {
         id: '122',
         item_image: 'item-category/smartgadgets/mini projector.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Smart Mini Projector 43Inch Display',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -119,7 +119,7 @@ const smartgadgets = [
     {
         id: '123',
         item_image: 'item-category/smartgadgets/moscuto bat-2.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Mosquitoes Electric Killer',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -132,7 +132,7 @@ const smartgadgets = [
     {
         id: '124',
         item_image: 'item-category/smartgadgets/otg 30.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'OTG Connector',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -145,7 +145,7 @@ const smartgadgets = [
     {
         id: '125',
         item_image: 'item-category/smartgadgets/otg-50.webp',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'OTG Connector Best Quality',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -197,20 +197,20 @@ const smartgadgets = [
     {
         id: '129',
         item_image: 'item-category/smartgadgets/pubg thumb.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: '(pack of 3) PubG Game Thumb',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
-        current_price: '10',
-        actual_price: '20',
-        discount: '50',
+        current_price: '50',
+        actual_price: '90',
+        discount: '40',
         delivery: '00',
         offer: 'Bank Offer'
     },
     {
         id: '130',
         item_image: 'item-category/smartgadgets/sim ejector.jpeg',
-        item_info: 'Sim Ejector Pack of 10',
+        item_info: 'Sim Ejector Pack of 10 Pin',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -288,7 +288,7 @@ const smartgadgets = [
     {
         id: '136',
         item_image: 'item-category/smartgadgets/water bottle temperature.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Water Bottle 600 ml with Temperature Indication',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -301,7 +301,7 @@ const smartgadgets = [
     {
         id: '137',
         item_image: 'item-category/smartgadgets/wireless blutooth-2.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Blutooth USB Connector',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -314,7 +314,7 @@ const smartgadgets = [
     {
         id: '138',
         item_image: 'item-category/smartgadgets/writing pad.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Electric Writing pad for Kids',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',

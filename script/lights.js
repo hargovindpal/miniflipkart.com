@@ -2,11 +2,11 @@ const lights = [
     {
         id: '93',
         item_image: 'item-category/lights/ball-light.webp',
-        item_info: 'FAST CHARGING 65W DATACABLE WITH 6 MONTH WARRANTY',
+        item_info: 'Crystal Ball LED Lights ',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
-        current_price: '149',
+        current_price: '169',
         actual_price: '250',
         discount: '40',
         delivery: '00',
@@ -15,7 +15,7 @@ const lights = [
     {
         id: '94',
         item_image: 'item-category/lights/cliplight.webp',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Clip Hanging LED Lights',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -28,7 +28,7 @@ const lights = [
     {
         id: '95',
         item_image: 'item-category/lights/colorbulb1.webp',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Disco Mulitcolor Bulb',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -41,7 +41,7 @@ const lights = [
     {
         id: '96',
         item_image: 'item-category/lights/colorbulb2.webp',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Disco Mulitcolor Round Bulb',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -54,7 +54,7 @@ const lights = [
     {
         id: '97',
         item_image: 'item-category/lights/colorbulb3.webp',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Disco Mulitcolor Golden Round Bulb',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -67,7 +67,7 @@ const lights = [
     {
         id: '98',
         item_image: 'item-category/lights/colorstarlight.webp',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Multicolor Star 6+6 Lights',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -80,7 +80,7 @@ const lights = [
     {
         id: '99',
         item_image: 'item-category/lights/starlight-warm.webp',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Warm-White Color Star 6+6 Lights',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -199,7 +199,7 @@ const lights = [
     {
         id: '108',
         item_image: 'item-category/lights/glass light.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Crystal Glass Touch Color Changin light',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -212,7 +212,7 @@ const lights = [
     {
         id: '109',
         item_image: 'item-category/lights/wall-solar light -2.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Wall Solar Lights Best Quality(Pack of 1)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -225,7 +225,7 @@ const lights = [
     {
         id: '110',
         item_image: 'item-category/lights/wall-solar-light.jpeg',
-        item_info: 'Men Printed Round Neck Polyester Black T-Shirt',
+        item_info: 'Wall Solar Lights  (Pack of 1)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
@@ -238,7 +238,7 @@ const lights = [
     {
         id: '111',
         item_image: 'item-category/lights/torch-129.jpeg',
-        item_info: 'High Beam Light',
+        item_info: 'High Beam Light (pack of 1)',
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
