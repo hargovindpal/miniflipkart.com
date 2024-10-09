@@ -156,6 +156,15 @@ padding-bottom: 20px;
 width: auto;
 
 }
+.banner1{
+    display: flex;
+    width: fit-content auto;
+    height: auto;
+    margin-top:20px;
+    }
+    .banner1 img{
+        width: 100%;
+    }
 
 .items-container {
 
