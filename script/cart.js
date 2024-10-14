@@ -32,6 +32,7 @@ function displayCartItems(){
 
 function generateItemHtml(item){
     return `<div class="cart-items">
+                            <p>Item No: ${item.id}</p>
                             <div class="cart-item">
                                 <div class="item-image">
                                     <img src="${item.item_image}">

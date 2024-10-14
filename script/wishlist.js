@@ -28,6 +28,7 @@ function displayWishlistItems(){
 
 function generateHtmlForWishList(item){
         return `<div class="wishlist-item">
+                    <p>Item No: ${item.id}</p>
                     <div class="item-image">
                         <img src="${item.item_image}">
                     </div>

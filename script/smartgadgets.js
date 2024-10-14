@@ -337,6 +337,19 @@ const smartgadgets = [
         delivery: '20',
         offer: 'Bank Offer'
     },
+    {
+        id: '165',
+        item_image: 'item-category/smartgadgets/80W_SOUND_TWEETER.jpeg',
+        item_info: '80W HIGH QUALITY TWEETER SOUND',
+        seller: 'Harry',
+        delivery_date: '15-06-2024',
+        rating: '4.5',
+        current_price: '179',
+        actual_price: '300',
+        discount: '45',
+        delivery: '00',
+        offer: 'Bank Offer'
+    },
 
 
 ]

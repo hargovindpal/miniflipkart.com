@@ -208,5 +208,57 @@ const blutooth = [
         delivery: '00',
         offer: 'Bank Offer'
     },
+    {
+        id: '161',
+        item_image: 'item-category/blutooth/BOAT_NECKBAND_60HRS.jpeg',
+        item_info: 'Boat 60Hrs High Bass Neckband(6 Month Warranty)',
+        seller: 'Harry',
+        delivery_date: '15-06-2024',
+        rating: '4.5',
+        current_price: '449',
+        actual_price: '900',
+        discount: '50',
+        delivery: '00',
+        offer: 'Bank Offer'
+    },
+    {
+        id: '162',
+        item_image: 'item-category/blutooth/BOAT_NECKBAND_500HRS.jpeg',
+        item_info: 'Boat 500Hrs Battery Backup High Bass Neckband(6 Month Warranty)',
+        seller: 'Harry',
+        delivery_date: '15-06-2024',
+        rating: '4.5',
+        current_price: '729',
+        actual_price: '1200',
+        discount: '40',
+        delivery: '00',
+        offer: 'Bank Offer'
+    },
+    {
+        id: '163',
+        item_image: 'item-category/blutooth/JBL_NECKBAND_500HRS.jpeg',
+        item_info: 'JBL 500Hrs Battery Backup High Bass Neckband(6 Month Warranty)',
+        seller: 'Harry',
+        delivery_date: '15-06-2024',
+        rating: '4.5',
+        current_price: '729',
+        actual_price: '1200',
+        discount: '40',
+        delivery: '00',
+        offer: 'Bank Offer'
+    },
+    {
+        id: '164',
+        item_image: 'item-category/blutooth/SOROO_IPODS-10_EARBUDS.jpeg',
+        item_info: 'SOROO  STEREO IPODS-10 High Quality Earbud(6 Month Warranty)',
+        seller: 'Harry',
+        delivery_date: '15-06-2024',
+        rating: '4.5',
+        current_price: '729',
+        actual_price: '1200',
+        discount: '40',
+        delivery: '00',
+        offer: 'Bank Offer'
+    },
     
 ]

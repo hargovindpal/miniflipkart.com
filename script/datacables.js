@@ -196,6 +196,45 @@ const datacables = [
         delivery: '00',
         offer: 'Bank Offer'
     },
+    {
+        id: '158',
+        item_image: 'item-category/datacable/3 IN 1_MAGNETIC_CABLE.jpeg',
+        item_info: '3 in 1 Magnetic Fast Changing Datacable with 6 Month Warranty',
+        seller: 'Harry',
+        delivery_date: '15-06-2024',
+        rating: '4.5',
+        current_price: '199',
+        actual_price: '400',
+        discount: '50',
+        delivery: '00',
+        offer: 'Bank Offer'
+    },
+    {
+        id: '159',
+        item_image: 'item-category/datacable/BOAT_44W_CABLE.jpeg',
+        item_info: 'Boat 44W Fast Changing Datacable with 6 Month Warranty',
+        seller: 'Harry',
+        delivery_date: '15-06-2024',
+        rating: '4.5',
+        current_price: '219',
+        actual_price: '400',
+        discount: '50',
+        delivery: '00',
+        offer: 'Bank Offer'
+    },
+    {
+        id: '160',
+        item_image: 'item-category/datacable/U&I_45W_CABLE.jpeg',
+        item_info: 'U&I 45W Fast Changing Datacable with 6 Month Warranty',
+        seller: 'Harry',
+        delivery_date: '15-06-2024',
+        rating: '4.5',
+        current_price: '199',
+        actual_price: '350',
+        discount: '40',
+        delivery: '00',
+        offer: 'Bank Offer'
+    },
 
 
 

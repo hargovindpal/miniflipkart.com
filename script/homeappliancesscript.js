@@ -13,6 +13,7 @@ let innerHtml= '';
 homeappliances.forEach(item =>{
 
 innerHtml += ` <div class="item-container">
+                                <p>Item No: ${item.id}</p>
                                 <div class="like">
                                 <i onclick="addtowishlist(${item.id})" class="fa-solid fa-heart" data-wishlist="${item.id}"></i>
                                 </div>
