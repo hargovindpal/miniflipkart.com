@@ -2207,5 +2207,18 @@ const items = [
         delivery: '00',
         offer: 'Bank Offer'
     },
+    {
+        id: '166',
+        item_image: 'item-category/blutooth/og_anc_earbuds.webp',
+        item_info: 'Original Buds with warranty',
+        seller: 'Harry',
+        delivery_date: '15-06-2024',
+        rating: '4.5',
+        current_price: '999',
+        actual_price: '2000',
+        discount: '50',
+        delivery: '00',
+        offer: 'Bank Offer'
+    },
 
 ]

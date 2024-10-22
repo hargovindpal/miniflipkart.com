@@ -44,7 +44,7 @@ body {
     flex-wrap: wrap;
     justify-content: left;
     align-items: center;
-    background-color: #050c18;
+    background-image: linear-gradient(to right, rgb(7, 184, 228) ,rgb(180, 36, 36), rgb(26, 143, 36));
     padding: 10px;
     width: 100%;
     overflow: hidden;
@@ -151,7 +151,7 @@ body {
     padding:10px 0px;
 }
 main.catagory-container{
-background-color: #6696df;
+background-color: #d881e098;
 padding-bottom: 20px;
 width: auto;
 
@@ -372,7 +372,9 @@ hr{
     width: 40%;
     min-height: 440px;
     padding: 20px;
-    background-color: white;
+    background-image: linear-gradient(to right, rgb(255, 145, 0) ,white, rgb(26, 143, 36));
+
+
 }
 
 .item-catagory:hover {
