@@ -694,7 +694,7 @@ span i {
     width: 100%;
     gap: 10px;
     justify-content: center;
-    padding: 300px 0px  50px 0px;
+    padding: 300px 20px  50px 3px;
     background-color: #547ebe;
 }
 
