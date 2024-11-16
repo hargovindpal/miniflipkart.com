@@ -131,7 +131,7 @@ function displayCartSummary(){
                                 </tbody>
                             </table>
                             <div class="placeOrderbtn">
-                                <button>PLACE ORDER</button>
+                                <button> <a href="https://wa.link/o755e4" target="_blank">PLACE ORDER</a></button>
                             </div>
                             <div class="terms mgn-top">
                                 <figure><img src="shield.svg"></figure>
