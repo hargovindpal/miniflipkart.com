@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewdivort" content="width=device-width, initial-scale=1.0" />
-  <title>Harry The Smart Store</title>
+  <title>Smart Bachat Bazaar</title>
   <link href="style/style.css" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" />
   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
@@ -293,9 +293,31 @@
     </div>
     <div><i class="fa-solid fa-gift"></i><a href=""> Gift Cards</a></div>
     <div><i class="fa-solid fa-question"></i><a href=""></a> Help Center</div>
-    <span>© 2024-2024 sanjaysmartgadgets.com</span>
+    <span>© 2024-2025 www.smartbachatbazaar.in</span>
     <img src="payment-method.svg" />
   </div>
+  
+  <div class="counter" id="visitorCount">0</div><p>Visitors</p>
+    
+
+    <script>
+      // Check if visitor count exists in localStorage
+      let visitCount = localStorage.getItem('visitCount');
+
+      // If not, initialize it to 0
+      if (!visitCount) {
+          visitCount = 0;
+      }
+
+      // Increment the count
+      visitCount++;
+
+      // Save the updated count to localStorage
+      localStorage.setItem('visitCount', visitCount);
+
+      // Display the count on the page
+      document.getElementById('visitorCount').textContent = visitCount;
+  </script>
 
   
   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
@@ -304,6 +326,8 @@
   <script>
     AOS.init();
   </script>
+
+
 </body>
 
 </html>

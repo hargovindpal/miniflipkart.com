@@ -240,7 +240,7 @@ const smartgadgets = [
         seller: 'Harry',
         delivery_date: '15-06-2024',
         rating: '4.5',
-        current_price: '279',
+        current_price: '319',
         actual_price: '500',
         discount: '40',
         delivery: '00',

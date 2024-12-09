@@ -939,6 +939,11 @@ td {
 
 }
 
+.counter {
+    font-size: 18px;
+    color: #0d550f;
+}
+
 /* General Styles for Mobile */
 @media only screen and (max-width: 767px) {
 
